@@ -1,8 +1,11 @@
 .titulo{
     font-size: 1.5em;
+    padding-left: 5%;
+    text-align: center;
 }
 .subtitulo{
     font-size: 1.2em;
+    text-align: center;
 }
 .cor_fundo{
     background-color: gold;
@@ -10,4 +13,7 @@
 
 .color{
     background-color: snow;
+}
+.pcarrosel{
+    color: black;
 }
