@@ -1,15 +1,22 @@
 body{
-    background-image: url(../img/fundo/msc.png);
+    background-image: url(../img/background/fundo.png);
+    font-family: 'Pangolin', cursive;
 }
-.titulo{
-    font-size: 1.5em;
+.h1{
+    font-size: 2.5em;
     padding-left: 5%;
     text-align: center;
 }
-.subtitulo{
-    font-size: 1.2em;
+.h2{
+    font-size: 2em;
     text-align: center;
 }
+.conteudo-paragrafo{
+    font-size: 1.5em;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 .cor_fundo{
     background-color: gold;
 }
@@ -20,6 +27,11 @@ body{
 .pcarrosel{
     color: black;
 }
-.conteudo-paragrafo{
-    margin-left: 5%;
+
+@media screen and (min-width: 992px) {
+    .testes{
+        display: inline;
+        position: absolute;
+        right: 1.5%;
+    }
 }
