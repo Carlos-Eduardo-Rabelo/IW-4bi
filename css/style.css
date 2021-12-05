@@ -30,6 +30,12 @@ body{
 .ante-lista{
     color: #921600;
 }
+.section{
+    text-align: center;
+}
+.section_par{
+    text-align: left;
+}
 .Obs{
     font-size: 25px;
 	margin-top: 2%;
