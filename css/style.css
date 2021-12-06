@@ -18,6 +18,11 @@ body{
     font-size: 1.7em;
     text-align: center;
 }
+.h32{
+    font-size: 1.2em;
+    margin-right: 5%;
+    margin-left: 5%;
+}
 .cordasclass{
     margin-left: 10%;
     margin-right: 10%;
@@ -26,6 +31,9 @@ body{
     font-size: 1.5em;
     margin-left: 5%;
     margin-right: 5%;
+}
+a{
+    color: rgb(165, 97, 7);
 }
 .ante-lista{
     color: #921600;
@@ -79,6 +87,9 @@ figure{
 }
 .p_figure{
     font-size: 0.9em;
+}
+.p_figure2{
+    font-size: 0.8em;
 }
 .img{
     border: 5px double;
