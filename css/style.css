@@ -77,6 +77,9 @@ figure{
     text-align: center;
     line-height: 2;
 }
+.p_figure{
+    font-size: 0.9em;
+}
 .img{
     border: 5px double;
     margin-top: 3%;
